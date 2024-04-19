@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-19T10:09:57" hostname="HMHA_T" time="0.066">
+<testsuite name="ParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-19T10:15:45" hostname="HMHA_T" time="0.084">
   <properties/>
-  <testcase name="testSortByName()" classname="ParserTest" time="0.066"/>
+  <testcase name="testSortByPopulation()" classname="ParserTest" time="0.084"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -26,6 +26,7 @@ public class Parser {
         // Sort countries by population (most)
         //TODO
         sortedByPopulation.sort(Comparator.comparing(Country::getPopulation));
+        Collections.reverse(sortedByPopulation);
         return sortedByPopulation;
     }
 
@@ -34,6 +35,7 @@ public class Parser {
         // Sort countries by area (most)
         //TODO
         sortedByArea.sort(Comparator.comparing(Country::getArea));
+        Collections.reverse(sortedByArea);
         return sortedByArea;
     }
 
